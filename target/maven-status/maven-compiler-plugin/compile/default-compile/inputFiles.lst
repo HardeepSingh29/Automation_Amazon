@@ -1,7 +1,7 @@
 C:\Users\HARDEEP SINGH\eclipse-workspace\Automation_VS_New\src\main\java\com\vs\pages\LandingPage.java
 C:\Users\HARDEEP SINGH\eclipse-workspace\Automation_VS_New\src\main\java\com\vs\libraries\Xls_Reader.java
 C:\Users\HARDEEP SINGH\eclipse-workspace\Automation_VS_New\src\main\java\com\vs\config\PropertiesCache.java
-C:\Users\HARDEEP SINGH\eclipse-workspace\Automation_VS_New\src\main\java\com\vs\stepdefinition\UniversalSteps.java
+C:\Users\HARDEEP SINGH\eclipse-workspace\Automation_VS_New\src\main\java\com\vs\Stepdefinition\UniversalSteps.java
 C:\Users\HARDEEP SINGH\eclipse-workspace\Automation_VS_New\src\main\java\com\vs\executor\CukeExecutor.java
 C:\Users\HARDEEP SINGH\eclipse-workspace\Automation_VS_New\src\main\java\com\vs\webelement\BaseElement.java
 C:\Users\HARDEEP SINGH\eclipse-workspace\Automation_VS_New\src\main\java\com\vs\webelement\Button.java
